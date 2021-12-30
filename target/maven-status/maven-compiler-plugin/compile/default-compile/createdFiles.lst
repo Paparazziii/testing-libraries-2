@@ -1,0 +1,10 @@
+com\baeldung\jacocoexclusions\dto\ExcludedPOJO.class
+com\baeldung\jacocoexclusions\domain\Product.class
+com\baeldung\jacocoexclusions\config\AppConfig.class
+com\baeldung\jacocoexclusions\domain\Product$ProductBuilder.class
+com\baeldung\sonarqubeandjacoco\product\Product.class
+com\baeldung\jacocoexclusions\dto\ProductDTO.class
+com\baeldung\jacocoexclusions\generated\Generated.class
+com\baeldung\jacocoexclusions\generated\Customer.class
+com\baeldung\jacocoexclusions\service\ProductService.class
+com\baeldung\jacocoexclusions\service\CustomerService.class

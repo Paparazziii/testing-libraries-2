@@ -1,0 +1,4 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+testing-libraries-2,com.baeldung.sonarqubeandjacoco.product,Product,18,28,0,0,8,12,5,5,5,5
+testing-libraries-2,com.baeldung.jacocoexclusions.service,CustomerService,0,5,0,0,0,2,0,2,0,2
+testing-libraries-2,com.baeldung.jacocoexclusions.service,ProductService,10,13,0,0,1,3,1,3,1,3
