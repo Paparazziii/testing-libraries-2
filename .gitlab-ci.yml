@@ -1,0 +1,10 @@
+stages:
+  - test
+  - scan
+
+Sonar:
+  stage: scan
+  tags:
+    - maven
+  script:
+    - mvn clean verify sonar:sonar -D“sonar.projectKey=test2” -D“sonar.host.url=http://localhost:9000” -D“sonar.login=17b70425a8d199b65755f99474f449fe3699fb3b”
